@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
+  m_Name: "S\u1EA3n Ph\u1EA9m"
+  m_EditorClassIdentifier: 
+  SanPham:
+  - ID: 0
+    anh: {fileID: 21300000, guid: 7f13f35751275e649867c285c6212c91, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 1
+    anh: {fileID: 21300000, guid: d7c09686e3eaa3147892213c72807a82, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "50.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 2
+    anh: {fileID: 21300000, guid: 61a95c8caca968048b65a7e083d7a1ba, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "50.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 3
+    anh: {fileID: 21300000, guid: 9f1c0f50383a3ea4bbc7d7b6c93a70c0, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "20.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 4
+    anh: {fileID: 21300000, guid: 6d74e8e3833b86847a354aca1f971b74, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "500.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 5
+    anh: {fileID: 21300000, guid: a5ebd77d5ac587541954c9e4e94924db, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "50.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
