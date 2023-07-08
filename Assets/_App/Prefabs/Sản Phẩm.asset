@@ -12,6 +12,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1de118c01cd375348bc5b06db5d3937a, type: 3}
   m_Name: "S\u1EA3n Ph\u1EA9m"
   m_EditorClassIdentifier: 
+  name: 
+  infor: 
+  folderPath: Assets/App8
   SanPham:
   - ID: 0
     anh: {fileID: 21300000, guid: 7f13f35751275e649867c285c6212c91, type: 3}
@@ -23,13 +26,13 @@ MonoBehaviour:
     anh: {fileID: 21300000, guid: d7c09686e3eaa3147892213c72807a82, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "50.000 \u0111"
+    gia: "500.000 \u0111"
     name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
   - ID: 2
     anh: {fileID: 21300000, guid: 61a95c8caca968048b65a7e083d7a1ba, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "50.000 \u0111"
+    gia: "5.000.000 \u0111"
     name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
   - ID: 3
     anh: {fileID: 21300000, guid: 9f1c0f50383a3ea4bbc7d7b6c93a70c0, type: 3}
@@ -47,5 +50,53 @@ MonoBehaviour:
     anh: {fileID: 21300000, guid: a5ebd77d5ac587541954c9e4e94924db, type: 3}
     anhHai: {fileID: 0}
     thongTin: 
-    gia: "50.000 \u0111"
+    gia: "500.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 6
+    anh: {fileID: 21300000, guid: c5b41557450b8bc4cb73278153a1bed9, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "6.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 7
+    anh: {fileID: 21300000, guid: c06c073316d2d4544a44e374398a25df, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "16.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 8
+    anh: {fileID: 21300000, guid: dd3e36925a3135e47b6085f75ecb9172, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "8.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 9
+    anh: {fileID: 21300000, guid: 8cd66251f5c56c34eaa862c539b5cc9d, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "5.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 10
+    anh: {fileID: 21300000, guid: 7c6852638c43b5144a6e698be8b8f6d6, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "5.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 11
+    anh: {fileID: 21300000, guid: eae346f76b745da41abe5b469b64ff20, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "3.000.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 12
+    anh: {fileID: 21300000, guid: 3e50190951446704cbfb32ab716a74ec, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "870.000 \u0111"
+    name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
+  - ID: 13
+    anh: {fileID: 21300000, guid: d0b3788be73c3364e9e6fe1d05d71638, type: 3}
+    anhHai: {fileID: 0}
+    thongTin: 
+    gia: "19.000.000 \u0111"
     name: "B\u1ED8 VEST NAM XANH \u0110EN S\u1ECCC V\xC0NG 1 N\xDAT"
